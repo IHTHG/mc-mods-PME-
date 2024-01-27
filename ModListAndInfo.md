@@ -20,4 +20,5 @@ Mods:
  - Supplementaries
  - Personality
  - Blueprint
- - Immersive Armors
+ - Moonlight Lib
+ - Curios API
