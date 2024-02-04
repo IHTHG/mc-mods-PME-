@@ -22,5 +22,3 @@ Mods:
  - Blueprint
  - Moonlight Lib
  - Curios API
-
-the server also has pixelmon, so please get the 1.16.5 vers from the pixelmon website: https://reforged.gg/. the reson its not already on the page is due to the file size being to large.
